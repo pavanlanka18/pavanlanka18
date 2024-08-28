@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **frondend devolopment**
 
-- 🌱 I’m currently learning **web devolopment and DSA**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **pavanlanka13@gmail.com**
 
