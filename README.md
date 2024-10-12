@@ -9,9 +9,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavanlanka18&label=Profile%20views&color=0e75b6&style=flat" alt="pavanlanka18" /> </p>
 
 
-- 🔭 I’m currently working on **frondend devolopment**
+- 🔭 I’m currently working on **Frondend devolopment**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **React.js and node.js**
 
 - 📫 How to reach me **pavanlanka13@gmail.com**
 
