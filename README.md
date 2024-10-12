@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **pavanlanka13@gmail.com**
 
-- ⚡ Fun fact **professional in being unprofessional**
+- ⚡**professional in being unprofessional**
 
 <h3 align="left">Connect with me:</h3>
 
