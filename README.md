@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Frondend devolopment**
 
-- 🌱 I’m currently learning **React.js and node.js**
+- 🌱 I’m **Interested in Machine Learning and Data Science**
 
 - 📫 How to reach me **pavanlanka13@gmail.com**
 
