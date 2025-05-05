@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavanlanka18&label=Profile%20views&color=0e75b6&style=flat" alt="pavanlanka18" /> </p>
 
 
-- 🔭 I’m currently working on **Frondend devolopment**
+- 🔭 I’m currently working on **FrontEnd Development**
 
 - 🌱 I’m **Interested in Machine Learning and Data Science**
 
