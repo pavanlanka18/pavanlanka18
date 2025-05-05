@@ -21,6 +21,7 @@
 
 <p align="left">
 <a href="https://instagram.com/pavanlanka18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pavanlanka18" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pavanlanka18/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="pavanlanka18" height="30" width="40"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
